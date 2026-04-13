@@ -12,7 +12,7 @@ description: >
   planning, forecast profiles, inventory transfers, or capacity analysis — even if they
   don't say "demand planner" explicitly. Also trigger when the user asks to look up
   SOPs, business rules, glossary terms, or domain knowledge from their Obsidian vault
-  in the context of supply chain or demand planning.
+  in the context of supply chain or demand planning. TEST
 ---
 
 # Demand Planner
